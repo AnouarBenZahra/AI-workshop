@@ -4,15 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Workshop
+namespace Workshop.K_means
 {
-    class Program
+    class Helpers
     {
-        static void Main(string[] args)
-        {
-
-
-
-        }
     }
 }
